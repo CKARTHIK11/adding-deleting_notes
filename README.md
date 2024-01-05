@@ -1,1 +1,1 @@
-# adding-deleting_notes
+I've built a website using HTML and CSS for the visual part that users see. To handle the functionality, I used Python with frameworks like Django or Flask. The website allows users to add notes and delete them as well. It's a simple system where you can jot down notes and remove them when needed.
